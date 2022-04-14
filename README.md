@@ -1,7 +1,7 @@
 # hello-world
 
-##index.html
+## index.html
 is a placeholder index file
 
-##index.php
+## index.php
 is a placeholder php file
